@@ -6,7 +6,7 @@ from telebot import types, TeleBot
 import dct
 
 
-TOKEN = '5964923152:AAFJAz5RwOt9411U5TqFaPDuGoRzeQL5Rbg'
+TOKEN = 'your token from tg'
 bot = TeleBot(TOKEN)
 
 @bot.message_handler(commands=["start"])
