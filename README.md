@@ -1,4 +1,4 @@
-# Котобот-словарь геодезических терминов
+# Котобот-словарь геодезических терминов 😺  
 
 ## https://t.me/EFT_dictionary_bot  
 [![Header](https://github.com/GoodyrevQA/python_tg_bot/blob/main/assets/cat1.png)](https://github.com/GoodyrevQA/python_tg_bot)  
